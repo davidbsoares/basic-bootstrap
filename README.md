@@ -8,8 +8,10 @@
 
 ## 🖥 Preview 
 <details>
-  <summary>Clique para ver a imagem!</summary>  
+  <summary>Clique para ver a imagem!</summary>
+  
   ![](/imgs/Curso%20de%20Bootstrap.png)
+  
 </details>
   
 
